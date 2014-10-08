@@ -1,3 +1,4 @@
 Some notes about mountains
 -------------
 new notes...
+getting everything straight from working dir to local rep
